@@ -1,3 +1,22 @@
+<!--readme-header-->
+<p align="center">
+  <img src="HermesMobile/Resources/Assets.xcassets/AppIcon.appiconset/hermes_mobile_light_icon.png" width="128" alt="Hermex icon">
+</p>
+
+<h1 align="center">Hermex</h1>
+
+<p align="center">
+  <b>Hermes agent 的原生 Android 客户端</b><br>
+  <sub>Native Android app for your Hermes agent</sub>
+</p>
+
+<p align="center"><img alt="platform" src="https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white"><img alt="license" src="https://img.shields.io/github/license/TimmySheep/hermex-android-port-hermes?label=license&color=green"></p>
+
+<p align="center"><sub>Fork of <a href="https://github.com/Hungbocluaqua/hermex-android-port-hermes">Hungbocluaqua/hermex-android-port-hermes</a></sub></p>
+
+---
+<!--/readme-header-->
+
 <div align="center">
 
 <img src="docs/assets/readme/hermex-icon.png" alt="Hermex app icon" width="96" />
